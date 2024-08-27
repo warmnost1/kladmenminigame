@@ -1,0 +1,12 @@
+name: Mini-game-klads
+version: '1.0'
+main: wcoreorg.minigameklads.Mini_game_klads
+api-version: '1.21'
+authors: [warmik/warmnost/werkly]
+description: xz
+commands:
+  tops:
+    description: Топы игроков по победам
+
+  startgame:
+    description: Начинает игру
